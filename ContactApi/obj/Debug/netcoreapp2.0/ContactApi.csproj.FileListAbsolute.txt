@@ -1,0 +1,22 @@
+C:\Users\afwan\Documents\Visual Studio 2017\Projects\ContactApi\ContactApi\bin\Debug\netcoreapp2.0\ContactApi.deps.json
+C:\Users\afwan\Documents\Visual Studio 2017\Projects\ContactApi\ContactApi\bin\Debug\netcoreapp2.0\ContactApi.runtimeconfig.json
+C:\Users\afwan\Documents\Visual Studio 2017\Projects\ContactApi\ContactApi\bin\Debug\netcoreapp2.0\ContactApi.runtimeconfig.dev.json
+C:\Users\afwan\Documents\Visual Studio 2017\Projects\ContactApi\ContactApi\bin\Debug\netcoreapp2.0\ContactApi.dll
+C:\Users\afwan\Documents\Visual Studio 2017\Projects\ContactApi\ContactApi\bin\Debug\netcoreapp2.0\ContactApi.pdb
+C:\Users\afwan\Documents\Visual Studio 2017\Projects\ContactApi\ContactApi\obj\Debug\netcoreapp2.0\ContactApi.csprojResolveAssemblyReference.cache
+C:\Users\afwan\Documents\Visual Studio 2017\Projects\ContactApi\ContactApi\obj\Debug\netcoreapp2.0\ContactApi.csproj.CoreCompileInputs.cache
+C:\Users\afwan\Documents\Visual Studio 2017\Projects\ContactApi\ContactApi\obj\Debug\netcoreapp2.0\ContactApi.AssemblyInfoInputs.cache
+C:\Users\afwan\Documents\Visual Studio 2017\Projects\ContactApi\ContactApi\obj\Debug\netcoreapp2.0\ContactApi.AssemblyInfo.cs
+C:\Users\afwan\Documents\Visual Studio 2017\Projects\ContactApi\ContactApi\obj\Debug\netcoreapp2.0\ContactApi.dll
+C:\Users\afwan\Documents\Visual Studio 2017\Projects\ContactApi\ContactApi\obj\Debug\netcoreapp2.0\ContactApi.pdb
+S:\afwan\ContactApi\ContactsCore2\ContactApi\bin\Debug\netcoreapp2.0\ContactApi.deps.json
+S:\afwan\ContactApi\ContactsCore2\ContactApi\bin\Debug\netcoreapp2.0\ContactApi.runtimeconfig.json
+S:\afwan\ContactApi\ContactsCore2\ContactApi\bin\Debug\netcoreapp2.0\ContactApi.runtimeconfig.dev.json
+S:\afwan\ContactApi\ContactsCore2\ContactApi\bin\Debug\netcoreapp2.0\ContactApi.dll
+S:\afwan\ContactApi\ContactsCore2\ContactApi\bin\Debug\netcoreapp2.0\ContactApi.pdb
+S:\afwan\ContactApi\ContactsCore2\ContactApi\obj\Debug\netcoreapp2.0\ContactApi.csprojResolveAssemblyReference.cache
+S:\afwan\ContactApi\ContactsCore2\ContactApi\obj\Debug\netcoreapp2.0\ContactApi.csproj.CoreCompileInputs.cache
+S:\afwan\ContactApi\ContactsCore2\ContactApi\obj\Debug\netcoreapp2.0\ContactApi.AssemblyInfoInputs.cache
+S:\afwan\ContactApi\ContactsCore2\ContactApi\obj\Debug\netcoreapp2.0\ContactApi.AssemblyInfo.cs
+S:\afwan\ContactApi\ContactsCore2\ContactApi\obj\Debug\netcoreapp2.0\ContactApi.dll
+S:\afwan\ContactApi\ContactsCore2\ContactApi\obj\Debug\netcoreapp2.0\ContactApi.pdb

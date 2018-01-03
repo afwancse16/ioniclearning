@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "FullConnectionString": "server=(localdb)\\ProjectsV13;Database=FullStackDb;Integrated Security=true;MultipleActiveResultSets=true"
+  }
+}
